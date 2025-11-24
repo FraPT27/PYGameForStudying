@@ -1,0 +1,616 @@
+[
+    {
+        "pergunta": "Que evento histórico marcou o início da Idade Contemporânea?",
+        "resposta": "Revolução Francesa de 1789",
+        "dificuldade": "Fácil",
+        "palavras_chave": ["revolução", "francesa", "1789"]
+    },
+    {
+        "pergunta": "Quais foram as três principais fontes de energia da Segunda Revolução Industrial?",
+        "resposta": "Electricidade, petróleo e motor de explosão",
+        "dificuldade": "Médio",
+        "palavras_chave": ["electricidade", "petróleo", "motor", "explosão"]
+    },
+    {
+        "pergunta": "Quem inventou o telégrafo óptico e em que ano foi implementado em França?",
+        "resposta": "Claude Chappé em 1792",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["claude", "chappé", "1792", "telégrafo", "óptico"]
+    },
+    {
+        "pergunta": "Qual foi a contribuição de Samuel Morse para as comunicações?",
+        "resposta": "Inventou o telégrafo eléctrico com o código Morse",
+        "dificuldade": "Médio",
+        "palavras_chave": ["telegrafo", "electrico", "código", "morse"]
+    },
+    {
+        "pergunta": "Quem foi Auguste Comte e que corrente filosófica fundou?",
+        "resposta": "Filósofo francês, fundador do Positivismo",
+        "dificuldade": "Médio",
+        "palavras_chave": [ "positivismo" ]
+    },
+    {
+        "pergunta": "O que significa a sigla TSF e quem foi o seu principal impulsionador?",
+        "resposta": "Telegrafia Sem Fios, impulsionada por Guglielmo Marconi",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["telegrafia", "sem", "fios", "marconi"]
+    },
+    {
+        "pergunta": "Qual foi o papel do Canal do Panamá no comércio mundial?",
+        "resposta": "Encurtou as rotas marítimas entre o Oceano Atlântico e Pacífico",
+        "dificuldade": "Médio",
+        "palavras_chave": ["Oceano", "Atlântico", "Pacífico", "comércio"]
+    },
+    {
+        "pergunta": "O que são os 'Ciclos de Kondratiev' e quantos ciclos foram identificados?",
+        "resposta": "Ciclos económicos longos de 40-60 anos, foram identificados 4 ciclos",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["ciclos", "kondratiev", "económicos", "longos", "revoluções", "industriais"]
+    },
+    {
+        "pergunta": "Quais foram as três fases do estado do espírito humano segundo Comte?",
+        "resposta": "Estado teológico, metafísico e positivo",
+        "dificuldade": "Médio",
+        "palavras_chave": ["Teologico", "metafisico", "positivo", "positivismo"]
+    },
+    {
+        "pergunta": "O que é a Epistemologia e em que contexto surgiu como disciplina?",
+        "resposta": "Teoria do conhecimento, surgiu nos anos 1960 do século XX",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["teoria", "conhecimento", "1960"]
+    },
+    {
+        "pergunta": "Quais foram os três princípios da Revolução Industrial?",
+        "resposta": "Substituição do trabalho humano por máquinas, fontes de potência com energia quase ilimitada, uso de novas matérias-primas",
+        "dificuldade": "Médio",
+        "palavras_chave": ["maquinas", "energia","ilimitada", "materias", "primas", "substituição", "homem","humanos"]
+    },
+    {
+        "pergunta": "Que país manteve a hegemonia económica durante a maior parte do século XIX?",
+        "resposta": "Inglaterra",
+        "dificuldade": "Fácil",
+        "palavras_chave": ["inglaterra", "hegemonia", "económica", "século", "XIX"]
+    },
+    {
+        "pergunta": "Quem inventou a locomotiva 'Rocket'?",
+        "resposta": "George Stephenson",
+        "dificuldade": "Médio",
+        "palavras_chave": ["george", "stephenson", "rocket", "locomotiva", "comboio"]
+    },
+    {
+        "pergunta": "Que tipo de navio era o 'Cutty Sark'?",
+        "resposta": "Clipper",
+        "dificuldade": "Médio",
+        "palavras_chave": ["cutty", "sark", "clipper", "navio", "vela"]
+    },
+    {
+        "pergunta": "Qual foi o primeiro navio de guerra totalmente em ferro?",
+        "resposta": "HMS Warrior",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["hms", "warrior", "ferro", "navio", "guerra"]
+    },
+    {
+        "pergunta": "Que inventor contribuiu para o desenvolvimento da lâmpada eléctrica?",
+        "resposta": "Thomas Edison",
+        "dificuldade": "Fácil",
+        "palavras_chave": ["thomas", "edison", "lâmpada", "eléctrica", "inventor"]
+    },
+    {
+        "pergunta": "Quem descobriu a penicilina?",
+        "resposta": "Alexandre Fleming",
+        "dificuldade": "Fácil",
+        "palavras_chave": ["alexandre", "fleming", "penicilina", "antibiótico", "descoberta"]
+    },
+    {
+        "pergunta": "Quem formulou a Teoria da Relatividade?",
+        "resposta": "Albert Einstein",
+        "dificuldade": "Fácil",
+        "palavras_chave": ["albert", "einstein", "relatividade", "teoria", "física"]
+    },
+    {
+        "pergunta": "Que teórico desenvolveu a teoria da 'destruição criativa'?",
+        "resposta": "Joseph Schumpeter",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["joseph", "schumpeter", "destruição", "criativa", "economia"]
+    },
+    {
+        "pergunta": "Qual foi o primeiro dirigível rígido e quem o desenvolveu?",
+        "resposta": "Desenvolvido por Ferdinand von Zeppelin",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["Ferdinand", "Zeppelin"]
+    },
+    {
+        "pergunta": "Quem formalizou a álgebra booleana?",
+        "resposta": "George Boole",
+        "dificuldade": "Fácil",
+        "palavras_chave": ["george", "boole", "álgebra", "lógica", "binária"]
+    },
+    {
+        "pergunta": "O que é um bit?",
+        "resposta": "Menor unidade de informação",
+        "dificuldade": "Fácil",
+        "palavras_chave": ["bit", "unidade", "informação", "binário", "dígito"]
+    },
+    {
+        "pergunta": "Quem ligou a lógica booleana aos circuitos elétricos?",
+        "resposta": "Claude Shannon",
+        "dificuldade": "Médio",
+        "palavras_chave": ["claude", "shannon", "circuitos", "elétricos", "booleana"]
+    },
+    {
+        "pergunta": "Qual a principal contribuição de von Neumann para a computação?",
+        "resposta": "Arquitetura de von Neumann",
+        "dificuldade": "Médio",
+        "palavras_chave": ["arquitetura", "von", "neumann", "computação", "modelo"]
+    },
+    {
+        "pergunta": "Qual foi o primeiro computador com programa armazenado?",
+        "resposta": "EDVAC",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["edvac", "programa", "armazenado", "computador", "memória"]
+    },
+    {
+        "pergunta": "O que é a 'Arquitetura de von Neumann'?",
+        "resposta": "Modelo de computador com memória, ULA, unidade de controle, entrada e saída",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["memória", "ula", "controle", "entrada", "saída", "unidade"]
+    },
+    {
+        "pergunta": "Quem criou a Teoria da Informação?",
+        "resposta": "Claude Shannon",
+        "dificuldade": "Médio",
+        "palavras_chave": ["claude", "shannon", "teoria", "informação", "comunicação"]
+    },
+    {
+        "pergunta": "O que é um byte?",
+        "resposta": "8 bits",
+        "dificuldade": "Fácil",
+        "palavras_chave": ["byte", "8", "bits", "informação", "computador"]
+    },
+    {
+        "pergunta": "Qual a origem histórica da lógica binária?",
+        "resposta": "Sistemas antigos como o I Ching e Pingala",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["i", "ching", "pingala"]
+    },
+    {
+        "pergunta": "Que papel teve von Neumann no Projeto Manhattan?",
+        "resposta": "Contribuiu com cálculos matemáticos para a bomba atômica",
+        "dificuldade": "Médio",
+        "palavras_chave": ["cálculos", "matemáticos", "bomba", "atômica", "manhattan"]
+    },
+    {
+        "pergunta": "Qual foi a tese de doutoramento de von Neumann?",
+        "resposta": "Teoria dos Conjuntos",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["teoria", "conjuntos", "doutoramento", "matemática"]
+    },
+    {
+        "pergunta": "Com quem von Neumann trabalhou na Universidade de Princeton?",
+        "resposta": "Albert Einstein e outros cientistas no Instituto de Estudos Avançados",
+        "dificuldade": "Médio",
+        "palavras_chave": ["Albert", "Einstein"]
+    },
+    {
+        "pergunta": "Que papel teve von Neumann no desenvolvimento da bomba de hidrogênio?",
+        "resposta": "Contribuiu com cálculos matemáticos e participou no projeto",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["calculos", "matematicos"]
+    },
+    {
+        "pergunta": "O que é o 'gargalo de von Neumann'?",
+        "resposta": "Limitação na transferência de dados entre a CPU e a memória",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["gargalo", "cpu", "memória", "transferência", "dados"]
+    },
+    {
+        "pergunta": "Qual foi o primeiro computador a ser produzido comercialmente seguindo a arquitetura de von Neumann?",
+        "resposta": "UNIVAC",
+        "dificuldade": "Médio",
+        "palavras_chave": ["univac", "comercial", "arquitetura", "produzido"]
+    },
+    {
+        "pergunta": "Que conceito de inteligência artificial von Neumann ajudou a desenvolver?",
+        "resposta": "Singularidade em IA",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["singularidade", "inteligência", "artificial", "conceito"]
+    },
+    {
+        "pergunta": "Quais são os componentes principais da arquitetura de von Neumann?",
+        "resposta": "Memória, ULA, unidade de controle, entrada e saída",
+        "dificuldade": "Médio",
+        "palavras_chave": ["memoria", "ula", "unidade de controle", "entrada", "saida"]
+    },
+    {
+        "pergunta": "Que contribuições von Neumann deu para a teoria dos jogos?",
+        "resposta": "Fundou a teoria dos jogos com Oskar Morgenstern",
+        "dificuldade": "Médio",
+        "palavras_chave": ["teoria", "jogos", "oskar", "morgenstern", "contribuições"]
+    },
+    {
+        "pergunta": "O que é a 'sonda de von Neumann'?",
+        "resposta": "Constructor Universal ou Autómato Celular de von Neumann",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["construtor", "universal"]
+    }
+   
+    ,
+
+    {
+        "pergunta": "A quem devemos a teoria das 'Máquinas Simples'? Quantas máquinas eram? Quais eram?",
+        "resposta": "Arquimedes. Eram 5 máquinas: alavanca, roda e eixo, polia, plano inclinado e cunha.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["Heron","5","maquinas","alavanca","roldana","prego","cabrestante","cunha"]
+    },
+    {
+        "pergunta": "Quais os quatro instrumentos gregos para estudo dos céus ou apoio à navegação?",
+        "resposta": "Astrolábio, esfera armilar, gnômon e quadrante.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["Triquetro","Esfera armilar","Dioptra","Quadrante estatico" ]
+    },
+    {
+        "pergunta": "A quem devemos o 'Princípio da Hidrostática'?",
+        "resposta": "Arquimedes",
+        "dificuldade": "Fácil",
+        "palavras_chave": ["arquimedes", "hidrostática", "princípio"]
+    },
+    {
+        "pergunta": "Quem construiu a 1.ª máquina de cálculo? Quem construiu a 2.ª. Como se chamava esta?",
+        "resposta": "Blaise Pascal (Pascaline). Gottfried Leibniz construiu a segunda, chamada 'Calculadora de Leibniz'.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["pascal", "leibniz", "pascaline", "calculadora", "máquina cálculo", "segunda", "2ª", "2"]
+    },
+    {
+        "pergunta": "Qual a mudança de paradigma da 1.ª Grande Revolução Científica? Quem a preconizou?",
+        "resposta": "Mudança do geocentrismo para o heliocentrismo. Nicolau Copérnico.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["heliocentrismo", "copérnico", "revolução científica"]
+    },
+    {
+        "pergunta": "Qual o nome da grande obra de Platão?",
+        "resposta": "A República",
+        "dificuldade": "Fácil",
+        "palavras_chave": ["platão", "república", "diálogos"]
+    },
+    {
+        "pergunta": "Em que país foi construído o computador Colossus? Em que lugar?",
+        "resposta": "Reino Unido, em Bletchley Park.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["colossus", "inglaterra", "bletchley park"]
+    },
+    {
+        "pergunta": "Qual o papel de Howard Aiken para os computadores? Em que máquina se baseou para construir o seu computador?",
+        "resposta": "Projetou o Harvard Mark I. Baseou-se na Máquina Analítica de Charles Babbage.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["mark i", "maquina analítica","babbage"]
+    },
+    {
+        "pergunta": "Diga outro nome para a válvula. Quais os elementos de uma válvula tríodo?",
+        "resposta": "Tubo de vácuo. Ânodo, cátodo e grade de controle.",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["válvula", "triodo", "tubo vácuo", "ânodo", "cátodo"]
+    },
+    {
+        "pergunta": "Quem criou a primeira máquina de cálculo?",
+        "resposta": "Blaise Pascal (Pascaline, 1642)",
+        "dificuldade": "Fácil",
+        "palavras_chave": ["pascal", "pascaline", "máquina cálculo"]
+    },
+    {
+        "pergunta": "Porque dizemos que a física de Aristóteles era uma física finalista?",
+        "resposta": "Porque explicava os fenômenos naturais através de propósitos ou finalidades (teleologia).",
+        "dificuldade": "Médio",
+        "palavras_chave": ["finalinadade"]
+    },
+    {
+        "pergunta": "Quem iniciou a 4ª Grande Revolução Científica? Qual o novo paradigma instituído?",
+        "resposta": "Albert Einstein. Relatividade e física quântica.",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["einstein", "relatividade","Albert"]
+    },
+    {
+        "pergunta": "Quais eram os elementos de Empedócles? Qual o 5.º elemento de Aristóteles?",
+        "resposta": "Terra, água, ar e fogo. Éter (quintessência).",
+        "dificuldade": "Médio",
+        "palavras_chave": ["agua", "terra", "ar", "fogo", "eter"]
+    },
+    {
+        "pergunta": "Quem era o Estagirita? O porquê do nome? Que escola fundou?",
+        "resposta": "Aristóteles. Natural de Estagira. Fundou o Liceu.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["aristóteles", "estagira", "liceu"]
+    },
+    {
+        "pergunta": "Diga o nome da 1.ª rede de teletratamento. Diga o nome da rede de teletratamento da American Airlines?",
+        "resposta": "SABRE. Também SABRE (Semi-Automatic Business Research Environment).",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["sabre"]
+    },
+    {
+        "pergunta": "Defina Cibernética. Quem foi o pai da Cibernética?",
+        "resposta": "Ciência do controle e comunicação. Norbert Wiener.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["cibernética", "wiener", "controle", "comunicação"]
+    },
+    {
+        "pergunta": "Como era o Universo de Platão? Qual o nome da escola que fundou?",
+        "resposta": "Geocêntrico e perfeito. Academia.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["platão", "universo", "geocêntrico", "academia"]
+    },
+    {
+        "pergunta": "Quais as máquinas projectadas por Charles Babbage? Pehr Scheutz construiu uma máquina baseada numa máquina de Babbage. Em qual? Como Pehr Scheutz chamou à sua máquina?",
+        "resposta": "Máquina Diferencial e Máquina Analítica. Baseou-se na Máquina Diferencial. Chamou 'Máquina de Diferenças'.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["babbage", "máquina diferencial", "scheutz"]
+    },
+    {
+        "pergunta": "Diga o nome dos computadores criados na Universidade de Illinois. Um dos computadores foi um pedido do Governo EUA. Para que era esse computador?",
+        "resposta": "ILLIAC series. ORDVAC para cálculos balísticos.",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["ordvac", "illiac", "cálculos balísticos"]
+    },
+    {
+        "pergunta": "Como se chamava o 1.º compilador? Quem o criou? Para que computador foi criado?",
+        "resposta": "A-0 System. Grace Hopper. UNIVAC I.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["compilador", "grace hopper", "a-0", "univac"]
+    },
+    {
+        "pergunta": "Quais os três factores em que assentavam as civilizações hidráulicas? Quem decifrou a escrita hieroglífica?",
+        "resposta": "Agricultura irrigada, organização social complexa e controle de água. Jean-François Champollion.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["sol", "solo", "champollion", "agua","Jean-françois"]
+    },
+    {
+        "pergunta": "Quais eram os principais instrumentos gregos para apoio à navegação?",
+        "resposta": "quadrante, triquetro, esfera armilar e dioptra.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["quadrante", "triquetro", "esfera armilar", "dioptra"]
+    },
+    {
+        "pergunta": "Diga o nome das três escritas egípcias.",
+        "resposta": "Hieroglífica, hierática e demótica.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["demotica", "hierática", "hieroglífica"]
+    },
+    {
+        "pergunta": "Diga um dos contributos de Watt para a máquina a vapor.",
+        "resposta": "Condensador separado para melhorar a eficiência.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["condensador"]
+    },
+    {
+        "pergunta": "A quem devemos a introdução dos 'números árabes' e do zero na civilização muçulmana?",
+        "resposta": "Al-Khwarizmi.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["al-khwarizmi", "números arábicos", "zero"]
+    },
+    {
+        "pergunta": "Qual a grande obra literária de Fibonacci? Que números promoveu ele na Europa?",
+        "resposta": "Liber Abaci. Sequência de Fibonacci e numerais indo-arábicos.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["fibonacci", "liber abaci", "sequência fibonacci"]
+    },
+    {
+        "pergunta": "Quantas são para a si as grandes revoluções científicas? Qual o novo paradigma da 3ª Revolução Científica?",
+        "resposta": "4 revoluções. .",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["revoluções científicas", "newton", "mecânica"]
+    },
+    {
+        "pergunta": "Que máquina de cálculo foi construída por Vannevar Bush? Em que Universidade?",
+        "resposta": "Analisador Diferencial. MIT.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["vannevar bush", "analisador diferencial", "mit"]
+    },
+    {
+        "pergunta": "Quem construiu o computador EDSAC? Em que país? Em que projecto foi baseado?",
+        "resposta": "Maurice Wilkes. Reino Unido. EDVAC de von Neumann.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["edsac", "wilkes", "edvac", "reino unido"]
+    },
+    {
+        "pergunta": "Qual o nome das três máquinas construídas na 'Estação X' para decifrar os códigos alemães?",
+        "resposta": "Colossus, Bombe e Heath Robinson.",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["estação x", "colossus", "bombe", "heath robinson"]
+    },
+
+    {
+        "pergunta": "Qual é considerado o instrumento de cálculo mais antigo e em que civilização foi provavelmente inventado?",
+        "resposta": "O ábaco, provavelmente inventado na China.",
+        "dificuldade": "Fácil",
+        "palavras_chave": ["ábaco", "china"]
+    },
+    {
+        "pergunta": "Que mecanismo antigo, descoberto num naufrágio grego, é considerado o primeiro dispositivo de rodas dentadas?",
+        "resposta": "O Mecanismo de Antikythera.",
+        "dificuldade": "Médio",
+        "palavras_chave": [ "antikythera"]
+    },
+    {
+        "pergunta": "Que engenheiro chinês construiu uma 'Máquina Cósmica' movida a água e para que servia?",
+        "resposta": "Su Song. Era um relógio astronómico para calcular e aperfeiçoar o calendário.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["su song", "máquina cósmica", "relógio", "água", "astronomia"]
+    },
+    {
+        "pergunta": "Que dispositivo de cálculo, consistindo em bastões, foi inventado por John Napier para simplificar multiplicações?",
+        "resposta": "Os 'Bastões de Napier' ou 'Napier's Bones'.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["napier", "bastoes"]
+    },
+    {
+        "pergunta": "Qual foi a principal inovação do tear construído por Joseph-Marie Jacquard?",
+        "resposta": "Ser programável através de cartões perfurados, automatizando o processo de tecelagem.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["cartoes", "perfurados"]
+    },
+    {
+        "pergunta": "Qual é o nome da máquina de cálculo mecânica inventada por Blaise Pascal?",
+        "resposta": "A Pascalina.",
+        "dificuldade": "Fácil",
+        "palavras_chave": ["pascal", "pascalina", "máquina", "cálculo"]
+    },
+    {
+        "pergunta": "Charles Babbage é conhecido por projetar duas máquinas. Quais são os seus nomes?",
+        "resposta": "A Máquina Diferencial (Difference Engine) e a Máquina Analítica (Analytical Engine).",
+        "dificuldade": "Médio",
+        "palavras_chave": [ "maquina" ,"diferencial", "maquina","analitica"]
+    },
+    {
+        "pergunta": "Quem é considerada a primeira programadora da história e que máquina ajudou a programar?",
+        "resposta": "Ada Lovelace. Ajudou a programar a Máquina Analítica de Babbage.",
+        "dificuldade": "Fácil",
+        "palavras_chave": ["lovelace", "máquina analítica"]
+    },
+    {
+        "pergunta": "Que invento de Herman Hollerith, baseado em cartões perfurados, foi crucial para o censo dos EUA?",
+        "resposta": "O Tabulador de Hollerith.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["hollerith", "tabulador", "cartões", "perfurados", "censo"]
+    },
+    {
+        "pergunta": "Qual foi o primeiro computador eletromecânico programável, construído por Howard Aiken com apoio da IBM?",
+        "resposta": "O Harvard Mark I (ou ASCC - Automatic Sequence Controlled Calculator).",
+        "dificuldade": "Médio",
+        "palavras_chave": ["mark 1"]
+    },
+    {
+        "pergunta": "Qual foi o primeiro computador eletrónico de uso geral e que característica o tornava tão revolucionário?",
+        "resposta": "O ENIAC. Era totalmente eletrónico e cerca de 1000 vezes mais rápido que os seus antecessores electromecânicos.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["eniac", "eletrónico", "uso geral", "velocidade"]
+    },
+    {
+        "pergunta": "Qual é o nome do conceito arquitetónico para computadores, desenvolvido por John von Neumann, que ainda é usado hoje?",
+        "resposta": "A Arquitetura de von Neumann, que armazena programas e dados na mesma memória.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["von neumann", "arquitetura"]
+    },
+    {
+        "pergunta": "Que termo, popularizado por Grace Hopper, é usado para descrever um erro ou defeito num programa de computador?",
+        "resposta": "Bug.",
+        "dificuldade": "Fácil",
+        "palavras_chave": ["grace hopper", "bug", "erro", "programa"]
+    },
+    {
+        "pergunta": "Qual foi o primeiro computador comercial bem-sucedido, capaz de processar informação numérica e alfabética?",
+        "resposta": "O UNIVAC I (Universal Automatic Computer).",
+        "dificuldade": "Médio",
+        "palavras_chave": ["univac"]
+    },
+    {
+        "pergunta": "Que componente eletrónico, que substituiu as válvulas, marcou o início da segunda geração de computadores?",
+        "resposta": "O transistor.",
+        "dificuldade": "Fácil",
+        "palavras_chave": ["transistor", "segunda geração", "válvulas"]
+    },
+    {
+        "pergunta": "Que conceito fundamental para o hardware moderno foi introduzido com o circuito integrado (chip)?",
+        "resposta": "A miniaturização e integração de múltiplos componentes eletrónicos (transístores, resistências, etc.) num único pequeno chip de silício, marcando a terceira geração.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["circuito integrado", "chip", "terceira geração", "miniaturização"]
+    },
+    {
+        "pergunta": "O que prevê a Lei de Moore, relacionada com a evolução da capacidade de processamento?",
+        "resposta": "Que a capacidade de um circuito integrado (número de transístores) duplica aproximadamente a cada 18 meses, ao mesmo tempo que o seu custo diminui.",
+        "dificuldade": "Médio",
+        "palavras_chave": [ "transístores", "duplicar","18 meses"]
+    },
+    {
+        "pergunta": "Que tipo de memória, feita de pequenos anéis de material magnético, foi dominante na primeira geração de computadores?",
+        "resposta": "Memória de núcleos de ferrite.",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["memória", "núcleos", "ferrite", "primeira geração"]
+    },
+    {
+        "pergunta": "Qual foi a contribuição fundamental de Claude Shannon para a ciência da computação?",
+        "resposta": "Fundar a Teoria da Informação e demonstrar que a lógica booleana e a aritmética binária podiam ser realizadas com circuitos elétricos.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["claude shannon", "teoria informação", "binário", "circuitos"]
+    },
+    {
+        "pergunta": "Para que foi construído o computador Colossus e que característica técnica o distinguia?",
+        "resposta": "Foi construído em Bletchley Park para decifrar os códigos Lorenz alemães. Foi o primeiro computador eletrónico e programável, usando válvulas e linguagem binária.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["decifrar",  "programavel","valvulas","linguagem binária"]
+    }
+
+,
+    {
+        "pergunta": "Quem iniciou a 1ª Revolução Científica? Qual o novo paradigma instituído?",
+        "resposta": "Nicolau Copérnico. Mudança do paradigma geocêntrico para heliocêntrico.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["copérnico", "heliocentrismo", "revolução científica"]
+    },
+    {
+        "pergunta": "Quem iniciou a 2ª Revolução Científica? Qual o novo paradigma instituído?",
+        "resposta": "Isaac Newton. Teoria da gravitação universal e movimentos elípticos.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["newton", "gravitacao universal", "revolucao cientifica"]
+    },
+    {
+        "pergunta": "Quem iniciou a 3ª Revolução Científica? Qual o novo paradigma instituído?",
+        "resposta": "Charles Darwin. Teoria da evolução das espécies.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["darwin", "evolução", "revolução científica"]
+    },
+    {
+        "pergunta": "Quem iniciou a 4ª Revolução Científica? Qual o novo paradigma instituído?",
+        "resposta": "Albert Einstein. Teoria da relatividade e física quântica.",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["einstein", "relatividade", "revolução científica"]
+    },
+    {
+        "pergunta": "Quais são as características principais da 1ª civilização hidráulica (Mesopotâmia)?",
+        "resposta": "Localizada no atual Iraque, desenvolveu a escrita cuneiforme e criou seu próprio calendário.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["mesopotâmia", "cuneiforme", "iraque"]
+    },
+    {
+        "pergunta": "Quais são as características principais da 2ª civilização hidráulica (Egito)?",
+        "resposta": "Poder centralizado, sociedade hierarquizada, com três sistemas de escrita (hieroglífica, hierática e demótica) e três calendários (solar, lunar e estelar).",
+        "dificuldade": "Médio",
+        "palavras_chave": ["egito", "hieroglífico", "calendários"]
+    },
+    {
+        "pergunta": "Quais são as características principais da 3ª civilização hidráulica (Vale do Indo)?",
+        "resposta": "Desenvolveu uma escrita própria que ainda não foi decifrada.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["vale do indo", "escrita", "indecifrada"]
+    },
+    {
+        "pergunta": "Quais são as características principais da 4ª civilização hidráulica (China)?",
+        "resposta": "Desenvolveu a escrita chinesa e sistemas avançados de gestão hídrica.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["china", "escrita chinesa", "gestão hídrica"]
+    },
+    {
+        "pergunta": "O que caracterizou a 1ª Revolução Industrial?",
+        "resposta": "Uso do carvão, ferro e aço, e desenvolvimento das máquinas a vapor para a indústria têxtil.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["vapor", "carvão", "têxtil"]
+    },
+    {
+        "pergunta": "O que caracterizou a 2ª Revolução Industrial?",
+        "resposta": "Desenvolvimento do motor de combustão interna e da eletricidade.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["motor combustão", "eletricidade", "revolução industrial"]
+    },
+    {
+        "pergunta": "O que caracterizou a 3ª Revolução Industrial?",
+        "resposta": "Desenvolvimento do transistor, eletrónica e energia nuclear.",
+        "dificuldade": "Médio",
+        "palavras_chave": ["transistor", "eletrónica", "energia nuclear"]
+    },
+    {
+        "pergunta": "O que caracterizou a 4ª Revolução Industrial?",
+        "resposta": "Sociedade da informação, Internet, Cloud Computing, Inteligência Artificial, robótica e impressão 3D/4D.",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["internet", "ia", "cloud", "4d"]
+    }
+
+
+]

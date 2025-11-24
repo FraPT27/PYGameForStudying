@@ -1,0 +1,111 @@
+[
+    {
+        "pergunta": "Qual foi o primeiro computador eletrónico de uso geral, desenvolvido na Universidade da Pensilvânia?",
+        "resposta": "ENIAC",
+        "dificuldade": "Fácil",
+        "palavras_chave": ["eniac", "eletrónico", "uso geral", "pensilvânia"]
+    },
+    {
+        "pergunta": "Qual computador comercial foi desenvolvido por Eckert e Mauchly e ficou famoso por prever os resultados das eleições norte-americanas de 1952?",
+        "resposta": "UNIVAC",
+        "dificuldade": "Médio",
+        "palavras_chave": ["univac", "comercial", "eckert", "mauchly", "eleições"]
+    },
+    {
+        "pergunta": "Qual foi o computador electromecânico desenvolvido por Howard Aiken com suporte da IBM e da Marinha dos EUA?",
+        "resposta": "mark 1",
+        "dificuldade": "Médio",
+        "palavras_chave": ["mark 1", "electromecânico", "howard aiken", "ibm"]
+    },
+   
+    {
+        "pergunta": "Qual foi o primeiro computador a utilizar a arquitetura de programa armazenado, baseado no memorando de von Neumann?",
+        "resposta": "EDVAC",
+        "dificuldade": "Médio",
+        "palavras_chave": ["edvac", "programa armazenado", "von neumann", "arquitetura"]
+    },
+    {
+        "pergunta": "Qual computador foi desenvolvido por Maurice Wilkes em Cambridge, baseado no EDVAC?",
+        "resposta": "EDSAC",
+        "dificuldade": "Médio",
+        "palavras_chave": ["edsac", "maurice wilkes", "cambridge", "edvac"]
+    },
+    {
+        "pergunta": "Qual foi o computador britânico desenvolvido durante a Segunda Guerra Mundial para decifrar os códigos Lorenz?",
+        "resposta": "Colossus",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["colossus", "britânico", "segunda guerra", "lorenz"]
+    },
+    {
+        "pergunta": "Qual foi a máquina diferencial projetada por Charles Babbage, mas nunca totalmente construída durante sua vida?",
+        "resposta": "Máquina das Diferenças",
+        "dificuldade": "Médio",
+        "palavras_chave": ["máquina das diferenças", "charles babbage"]
+    },
+    {
+        "pergunta": "Qual computador foi inspirado na Máquina Analítica de Babbage e construído por Howard Aiken?",
+        "resposta": "mark 1",
+        "dificuldade": "Médio",
+        "palavras_chave": ["mark 1"]
+    },
+    {
+        "pergunta": "Qual foi o computador desenvolvido por Herman Hollerith para processar dados do censo dos EUA usando cartões perfurados?",
+        "resposta": "Tabulador de Hollerith",
+        "dificuldade": "Fácil",
+        "palavras_chave": ["tabulador hollerith", "herman hollerith", "censo", "cartões perfurados"]
+    },
+    {
+        "pergunta": "Qual foi o primeiro computador a utilizar válvulas termiónicas e a ser totalmente eletrónico?",
+        "resposta": "ENIAC",
+        "dificuldade": "Fácil",
+        "palavras_chave": ["eniac", "válvulas", "eletrónico", "termiónicas"]
+    },
+    {
+        "pergunta": "Qual computador foi produzido pela Remington Rand e foi o primeiro destinado ao uso comercial?",
+        "resposta": "UNIVAC",
+        "dificuldade": "Médio",
+        "palavras_chave": ["univac", "remington rand", "comercial"]
+    },
+    {
+        "pergunta": "Qual foi o computador construído por Vannevar Bush que resolvia equações diferenciais e era analógico?",
+        "resposta": "Analisador Diferencial",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["analisador diferencial", "vannevar bush", "analógico", "equações diferenciais"]
+    },
+    {
+        "pergunta": "Qual computador foi desenvolvido para calcular trajectórias balísticas e usava cerca de 18 000 válvulas?",
+        "resposta": "ENIAC",
+        "dificuldade": "Médio",
+        "palavras_chave": ["eniac", "trajectórias", "balísticas", "válvulas"]
+    },
+    {
+        "pergunta": "Qual foi o computador que Grace Hopper usou quando descobriu o primeiro 'bug'?",
+        "resposta": "mark 2",
+        "dificuldade": "Fácil",
+        "palavras_chave": ["mark 2"]
+    },
+    {
+        "pergunta": "Qual computador foi construído com base nos conceitos da Máquina Analítica de Babbage e usava cartões perfurados?",
+        "resposta": "mark 1",
+        "dificuldade": "Médio",
+        "palavras_chave": ["mark 1", "máquina analítica", "babbage", "cartões perfurados"]
+    },
+    {
+        "pergunta": "Qual foi o primeiro computador a usar um programa armazenado electronicamente num tubo de mercúrio?",
+        "resposta": "EDVAC",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["edvac", "programa armazenado", "tubo mercúrio", "memória"]
+    },
+    {
+        "pergunta": "Qual foi o primeiro computador com programa armazenado?",
+        "resposta": "EDVAC",
+        "dificuldade": "Difícil",
+        "palavras_chave": ["edvac", "programa", "armazenado", "computador", "memória"]
+    },
+      {
+        "pergunta": "Qual foi o primeiro computador a ser produzido comercialmente seguindo a arquitetura de von Neumann?",
+        "resposta": "UNIVAC",
+        "dificuldade": "Médio",
+        "palavras_chave": ["univac", "comercial", "arquitetura", "produzido"]
+    }
+]
